@@ -1,0 +1,54 @@
+Módulos 5 y 6
+
+---
+
+MÓDULO 5: Explotación de redes cableadas e inalámbricas
+
+Este módulo estudia cómo los atacantes explotan vulnerabilidades en redes tanto cableadas (Ethernet) como inalámbricas (WiFi).
+
+Temas principales:
+
+* Explotación de vulnerabilidades de red:
+
+  * Errores de configuración
+  * Servicios inseguros
+  * Puertos abiertos
+* Ataques en redes inalámbricas:
+
+  * Crackeo de contraseñas WiFi
+  * Ataques de desautenticación
+  * Puntos de acceso falsos (Rogue AP)
+
+Objetivo:
+Comprender cómo se comprometen las redes para aplicar medidas de seguridad y protección.
+
+---
+
+MÓDULO 6: Explotación de vulnerabilidades en aplicaciones
+
+Este módulo se centra en ataques a aplicaciones, especialmente web, basándose en vulnerabilidades comunes como las del OWASP Top 10.
+
+Temas principales:
+
+* Ataques a aplicaciones web
+* Entornos de laboratorio para pruebas
+* Tipos de vulnerabilidades:
+
+  * Fallas de lógica de negocio
+  * Inyecciones (SQL, comandos, etc.)
+  * Problemas de autenticación
+  * Problemas de autorización
+  * XSS (Cross-Site Scripting)
+
+Objetivo:
+Identificar y explotar vulnerabilidades en aplicaciones para poder corregirlas y mejorar la seguridad.
+
+---
+
+RESUMEN GENERAL
+
+Módulo 5:
+Se enfoca en ataques a redes (infraestructura: cables, routers, WiFi).
+
+Módulo 6:
+Se enfoca en ataques a aplicaciones (software y sitios web).
