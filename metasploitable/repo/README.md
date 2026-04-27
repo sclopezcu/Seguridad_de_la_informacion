@@ -2,13 +2,6 @@
 
 ## Laboratorio de Ethical Hacking – Metasploitable 2
 
-| Campo | Detalle |
-|---|---|
-| **Asignatura** | Seguridad Informática / Ethical Hacking |
-| **Programa** | Ciencia de Datos – Quinto Semestre |
-| **Autores** | Alan Lozada · Sebastián López |
-| **Entorno** | Kali Linux + Metasploitable 2 |
-| **Herramientas** | Nmap · Metasploit Framework |
 
 ---
 
