@@ -1,4 +1,6 @@
-# 🔐 Laboratorio de Ethical Hacking – Metasploitable 2
+## Alan Lozada, Sebastian Lopez  -  Ciencia de Datos
+
+## Laboratorio de Ethical Hacking – Metasploitable 2
 
 | Campo | Detalle |
 |---|---|
@@ -10,7 +12,7 @@
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Introducción](#introducción)
 2. [Objetivos](#objetivos)
@@ -119,7 +121,7 @@ set LPORT 4444
 run
 ```
 
-> ⚠️ **Nota técnica:** Inicialmente no se obtuvo sesión debido a una mala configuración del parámetro `LHOST` (se usó `127.0.0.1` en lugar de la IP real de Kali Linux). Una vez corregido este error, el exploit ejecutó exitosamente y se estableció la sesión.
+>  **Nota técnica:** Inicialmente no se obtuvo sesión debido a una mala configuración del parámetro `LHOST` (se usó `127.0.0.1` en lugar de la IP real de Kali Linux). Una vez corregido este error, el exploit ejecutó exitosamente y se estableció la sesión.
 
 **Inicio de Metasploit y configuración del exploit:**
 
@@ -295,7 +297,7 @@ Esta práctica evidencia que la seguridad de una infraestructura tecnológica no
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 pentesting-metasploitable2/
@@ -324,4 +326,4 @@ pentesting-metasploitable2/
 
 ---
 
-*Práctica desarrollada en entorno controlado con fines exclusivamente educativos. Alan Lozada & Sebastián López — Ciencia de Datos, Quinto Semestre.*
+
