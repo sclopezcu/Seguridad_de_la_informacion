@@ -215,12 +215,12 @@ ps aux
 
 | Vulnerabilidad | CVE | Servicio afectado | Criticidad |
 |---|---|---|---|
-| Samba Username Map Script | CVE-2007-2447 | Samba 3.0.20 | 🔴 Crítica |
-| vsftpd 2.3.4 Backdoor | CVE-2011-2523 | vsftpd 2.3.4 | 🔴 Crítica |
-| UnrealIRCd Backdoor | CVE-2010-2075 | UnrealIRCd 3.2.8.1 | 🔴 Crítica |
-| Java RMI Server | CVE-2011-3556 | Java RMI | 🟠 Alta |
-| Bindshell expuesto | N/A | Puerto 1524 | 🔴 Crítica |
-| Telnet habilitado | N/A | Puerto 23 | 🟠 Alta |
+| Samba Username Map Script | CVE-2007-2447 | Samba 3.0.20 |  Crítica |
+| vsftpd 2.3.4 Backdoor | CVE-2011-2523 | vsftpd 2.3.4 |  Crítica |
+| UnrealIRCd Backdoor | CVE-2010-2075 | UnrealIRCd 3.2.8.1 |  Crítica |
+| Java RMI Server | CVE-2011-3556 | Java RMI |  Alta |
+| Bindshell expuesto | N/A | Puerto 1524 |  Crítica |
+| Telnet habilitado | N/A | Puerto 23 |  Alta |
 
 ### Evidencia de explotación
 
