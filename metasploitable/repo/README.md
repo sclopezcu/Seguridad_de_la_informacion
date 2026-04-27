@@ -226,7 +226,7 @@ ps aux
 
 - **Exploit utilizado:** `exploit/multi/samba/usermap_script`
 - **Vulnerabilidad:** CVE-2007-2447 — Samba 3.0.0 – 3.0.25rc3, ejecución remota de comandos mediante inyección en el parámetro de nombre de usuario.
-- **Resultado:** Sesión de shell con privilegios de **root** obtenida exitosamente sobre el sistema Metasploitable 2.
+- **Resultado:** Sesión de shell con privilegios de **root** obtenida exitosamente sobre el sistema Metasploitable 2
 - **Error identificado y corregido:** Configuración incorrecta de `LHOST=127.0.0.1`, corregida usando la IP real de la interfaz de Kali Linux.
 
 ---
