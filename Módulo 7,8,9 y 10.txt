@@ -1,0 +1,25 @@
+Resumen - Módulos 7, 8, 9 y 10
+
+Módulo 7: Criptografía
+
+La criptografía es un pilar fundamental en la seguridad de la información, ya que permite proteger la confidencialidad, integridad y autenticidad de los datos. En este módulo se estudian los dos principales tipos de cifrado: el cifrado simétrico, que utiliza una única clave para cifrar y descifrar información, y el cifrado asimétrico, que emplea un par de claves (pública y privada). Algoritmos como AES y RSA son ampliamente utilizados en la protección de datos sensibles.
+
+Además, se abordan las funciones hash como MD5 y SHA, que permiten verificar la integridad de la información sin necesidad de descifrarla. También se estudian conceptos como firmas digitales y certificados, los cuales garantizan la autenticidad de los datos y de los usuarios. Finalmente, se explica el funcionamiento de protocolos como SSL/TLS, que aseguran las comunicaciones en redes mediante cifrado.
+
+Módulo 8: Seguridad en Redes
+
+Este módulo se enfoca en la protección de las redes frente a amenazas externas e internas. Se analizan herramientas y mecanismos como firewalls, que controlan el tráfico de red, y sistemas IDS/IPS, que permiten detectar y prevenir intrusiones. También se destaca la importancia de la segmentación de red para limitar el alcance de posibles ataques.
+
+Por otro lado, se estudian ataques comunes como el sniffing, el spoofing y los ataques Man-in-the-Middle, los cuales comprometen la confidencialidad y autenticación de las comunicaciones. Para mitigar estos riesgos, se implementan medidas como el uso de cifrado, autenticación fuerte y monitoreo continuo del tráfico de red, fortaleciendo así la seguridad de la infraestructura.
+
+Módulo 9: Seguridad en Sistemas
+
+En este módulo se aborda la protección de sistemas operativos y dispositivos frente a diferentes tipos de amenazas. Se introduce el concepto de hardening, que consiste en reducir la superficie de ataque eliminando servicios innecesarios y configurando adecuadamente el sistema. También se resalta la importancia de mantener los sistemas actualizados mediante la gestión de parches.
+
+Asimismo, se estudian distintos tipos de malware como virus, troyanos y rootkits, los cuales pueden comprometer gravemente la seguridad de un sistema. Se analizan herramientas de detección y respuesta, así como la implementación de controles de acceso para garantizar que solo usuarios autorizados puedan interactuar con el sistema. El monitoreo continuo y las auditorías también son esenciales para mantener la seguridad.
+
+Módulo 10: Pruebas de Penetración
+
+El módulo de pruebas de penetración describe el proceso que sigue un hacker ético para evaluar la seguridad de un sistema. Este proceso incluye varias fases: reconocimiento, donde se recopila información del objetivo; escaneo, donde se identifican puertos y servicios; explotación, donde se aprovechan vulnerabilidades; y post-explotación, donde se mantiene el acceso y se obtiene información adicional.
+
+Durante esta fase se utilizan herramientas como Nmap y Metasploit Framework, las cuales facilitan la identificación y explotación de vulnerabilidades. Además, se enfatiza la importancia de actuar bajo principios éticos y legales, así como documentar todos los hallazgos en informes técnicos que permitan mejorar la seguridad de los sistemas evaluados.
